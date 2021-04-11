@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @withgod1994
+- 👀 I’m interested in game analysis
+- 🌱 I’m currently learning R and python  
+- 💞️ I’m looking to collaborate on game analysis project
+- 📫 How to reach me conatact my email in naver form
